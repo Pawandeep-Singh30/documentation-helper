@@ -27,6 +27,7 @@ langchain-pinecone = "*"
 certifi = "*"
 langchain-chroma = "*"
 python-dotenv = "*"
+langchain-ollama = "*"
 
 [dev-packages]
 ipykernel = "*"
